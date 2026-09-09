@@ -1,0 +1,12 @@
+services:
+  - type: web
+    name: portfolio-dashboard-api
+    runtime: node
+    plan: free
+    rootDir: server
+    buildCommand: npm install && npm run build
+    startCommand: npm start
+    healthCheckPath: /api/health
+    envVars:
+      - key: CLIENT_ORIGIN
+        sync: false

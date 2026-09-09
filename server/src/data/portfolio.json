@@ -1,0 +1,33 @@
+[
+  { "name": "HDFC Bank",        "sector": "Financials", "exchange": "NSE", "code": "HDFCBANK",  "purchasePrice": 1490, "qty": 50 },
+  { "name": "Bajaj Finance",    "sector": "Financials", "exchange": "NSE", "code": "BAJFINANCE", "purchasePrice": 6466, "qty": 15 },
+  { "name": "ICICI Bank",       "sector": "Financials", "exchange": "BSE", "code": "532174",     "purchasePrice": 780,  "qty": 84 },
+  { "name": "Bajaj Housing Finance", "sector": "Financials", "exchange": "BSE", "code": "544252", "purchasePrice": 130, "qty": 504 },
+  { "name": "Savani Financials","sector": "Financials", "exchange": "BSE", "code": "511577",     "purchasePrice": 24,   "qty": 1080 },
+
+  { "name": "Affle India",      "sector": "Technology", "exchange": "NSE", "code": "AFFLE",  "purchasePrice": 1151, "qty": 50 },
+  { "name": "LTIMindtree",      "sector": "Technology", "exchange": "NSE", "code": "LTIM",   "purchasePrice": 4775, "qty": 16 },
+  { "name": "KPIT Technologies","sector": "Technology", "exchange": "BSE", "code": "542651", "purchasePrice": 672,  "qty": 61 },
+  { "name": "Tata Technologies","sector": "Technology", "exchange": "BSE", "code": "544028", "purchasePrice": 1072, "qty": 63 },
+  { "name": "BLS E-Services",   "sector": "Technology", "exchange": "BSE", "code": "544107", "purchasePrice": 232,  "qty": 191 },
+  { "name": "Tanla Platforms",  "sector": "Technology", "exchange": "BSE", "code": "532790", "purchasePrice": 1134, "qty": 45 },
+
+  { "name": "Avenue Supermarts (DMart)", "sector": "Consumer", "exchange": "NSE", "code": "DMART", "purchasePrice": 3777, "qty": 27 },
+  { "name": "Tata Consumer Products",    "sector": "Consumer", "exchange": "BSE", "code": "532540", "purchasePrice": 845,  "qty": 90 },
+  { "name": "Pidilite Industries",       "sector": "Consumer", "exchange": "BSE", "code": "500331", "purchasePrice": 2376, "qty": 36 },
+
+  { "name": "Tata Power",       "sector": "Power", "exchange": "BSE", "code": "500400", "purchasePrice": 224, "qty": 225 },
+  { "name": "KPI Green Energy", "sector": "Power", "exchange": "BSE", "code": "542323", "purchasePrice": 875, "qty": 50 },
+  { "name": "Suzlon Energy",    "sector": "Power", "exchange": "BSE", "code": "532667", "purchasePrice": 44,  "qty": 450 },
+  { "name": "Gensol Engineering","sector": "Power", "exchange": "BSE", "code": "542851", "purchasePrice": 998, "qty": 45 },
+
+  { "name": "Hariom Pipe Industries", "sector": "Pipes", "exchange": "BSE", "code": "543517", "purchasePrice": 580,  "qty": 60 },
+  { "name": "Astral",                 "sector": "Pipes", "exchange": "NSE", "code": "ASTRAL", "purchasePrice": 1517, "qty": 56 },
+  { "name": "Polycab India",          "sector": "Pipes", "exchange": "BSE", "code": "542652", "purchasePrice": 2818, "qty": 28 },
+
+  { "name": "Clean Science and Technology", "sector": "Others", "exchange": "BSE", "code": "543318", "purchasePrice": 1610, "qty": 32 },
+  { "name": "Deepak Nitrite",               "sector": "Others", "exchange": "BSE", "code": "506401", "purchasePrice": 2248, "qty": 27 },
+  { "name": "Fine Organic Industries",      "sector": "Others", "exchange": "BSE", "code": "541557", "purchasePrice": 4284, "qty": 16 },
+  { "name": "Gravita India",                "sector": "Others", "exchange": "BSE", "code": "533282", "purchasePrice": 2037, "qty": 8 },
+  { "name": "SBI Life Insurance",           "sector": "Others", "exchange": "BSE", "code": "540719", "purchasePrice": 1197, "qty": 49 }
+]
